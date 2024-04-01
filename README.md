@@ -1,5 +1,5 @@
 ### Hello there 👋
 
-Estudiando una **Tecnicatura Universitaria en Programación**, en la `Universidad Tecnológica Nacional`.
+**Técnico Universitario en Programación** por la `Universidad Tecnológica Nacional`.
 
 Hablo Inglés, y me gusta usar neovim para todo.
